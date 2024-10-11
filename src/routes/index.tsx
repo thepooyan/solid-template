@@ -4,7 +4,6 @@ export default function Home() {
   return (
     <>
       <Button>hi</Button>
-      <div class="bg-primary">fol</div>
     </>
   );
 }
